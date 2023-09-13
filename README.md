@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Imthiyas Alam</h1>
 <h3 align="center">A dynamic Android developer from India</h3>
+
+<img src="https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" >
+
 <p align="left">
 </p>
 
@@ -11,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imthiyasalamdev&show_icons=true&locale=en" alt="imthiyasalamdev" /></p>
 
 
-- Connect with me: [Email](mailto:your.developerimthiyas.com) | [LinkedIn](https://www.linkedin.com/in/muhammed-imthiyas-alam-71a28526a/)
+- Connect with me: [Email](mailto:your.developerimthiyas.com) or [LinkedIn](https://www.linkedin.com/in/muhammed-imthiyas-alam-71a28526a/)
 
 
 
