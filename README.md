@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Imthiyas Alam</h1>
-<h2 align="center">A dynamic Android developer from India .Passionate about turning innovative ideas into beautifully functional Android apps</h2>
-
-
-
-
-
-<img  src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80" >
+<h3 align="center">Enthusiastic developer with a knack for creating Android apps and exploring the world of software. Enthusiastic about UI/UX design, API integration, and building with Java and Kotlin. Constantly learning and improving. 🚀</h3>
 
 <div style="font-family: Arial, sans-serif;">
     <h3 style="color: #007396;">Languages:</h3>
