@@ -1,7 +1,20 @@
-# Muhammed Imthiyas Alam
+<div>
+  <h1 align="center">Hi 👋, I'm Muhammed Imthiyas Alam</h1>
+<h3 align="left" Android Developer | Crafting Digital Experiences | Turning Code into Innovative Mobile</h3>
+</div>
+
+  
+<div style="text-align: left; font-family: Arial, sans-serif;">
+    <p>📱 Android Developer crafting delightful user experiences with Java and Kotlin.</p>
+    <p>🚀 Passionate about mobile app architecture and seamless API integrations.</p>
+    <p>💡 Dedicated to creating elegant and user-friendly UI/UX designs.</p>
+    <p>🌐 Enthusiastic about building apps that connect and empower users.</p>
+    <p>📚 Lifelong learner, continuously exploring the evolving world of Android development.</p>
+</div>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![](https://visitcount.itsvg.in/api?id=imthiyasalamdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -18,11 +31,9 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammedimthiyasalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedimthiyasalam" height="30" width="40" /></a>
-<a href="https://instagram.com/alambeardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alambeardo" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alambeardo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedimthiyasalam) 
+
 
 # My Statistics
 ![](https://github-readme-stats.vercel.app/api?username=imthiyasalamdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -30,6 +41,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyasalamdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 
 
 
