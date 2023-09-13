@@ -26,6 +26,19 @@
         <li><span style="color: #FF9800;">Firebase</span></li>
         <li><span style="color: #E91E63;">Room</span></li>
     </ul>
+<div style="font-family: Arial, sans-serif;">
+    <h3 style="color: #673AB7;">IDE:</h3>
+    <ul style="list-style-type: none; display: flex; align-items: center;">
+        <li style="margin-right: 20px;"><span style="color: #03A9F4;">Android Studio</span></li>
+        <li style="margin-right: 20px;"><span style="color: #4CAF50;">IntelliJ IDEA</span></li>
+        <li><span style="color: #FF9800;">Visual Studio Code</span></li>
+    </ul>
+</div>
+
+
+
+
+
 
 </div>
 
