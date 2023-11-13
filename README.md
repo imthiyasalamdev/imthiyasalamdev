@@ -1,9 +1,14 @@
 
-👋 Hey, I'm Alam, a Full Stack and Android Developer based in India. I love turning ideas into seamless digital experiences. From crafting robust full-stack applications to building sleek Android apps, I enjoy the challenge of creating clean, efficient code.
 
-🌐 Explore my repositories for a mix of personal projects, open source contributions, and tech experiments. Let's connect and code something awesome together! 🚀
+1. **Full Stack & Android Developer**: I'm Alam, specializing in Full Stack and Android development to bring digital ideas to life.
 
+2. **Clean Code Advocate**: I excel in crafting robust applications, from sleek front-end designs to scalable back-end solutions using HTML, CSS, JavaScript, Node.js, and databases.
 
+3. **Mobile App Enthusiast**: I focus on creating user-friendly Android experiences with a flair for sleek UIs and optimal performance.
+
+4. **Open Source Contributor**: My repos feature personal projects, community contributions, and tech experiments—believing in the power of collaboration and open source.
+
+5. **Let's Code Together!**: Beyond coding, I explore new tech and welcome collaborations. Connect with me for project discussions or to geek out about code. Happy coding! 🚀
 
 [![](https://visitcount.itsvg.in/api?id=imthiyasalamdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
