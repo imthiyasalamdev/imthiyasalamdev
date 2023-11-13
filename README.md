@@ -1,13 +1,4 @@
 
-  <h1 align="center">Hi 👋, I'm Muhammed Imthiyas Alam</h1>
-
-
-  
-<div style="text-align: left; font-family: Arial, sans-serif;">
-    <p>📱 Android Developer crafting delightful user experiences with Java and Kotlin.</p>
-    <p>🚀 Passionate about mobile app architecture and seamless API integrations.</p>
-    <p>💡 Dedicated to creating elegant and user-friendly UI/UX designs.</p>
-</div>
 
 
 
