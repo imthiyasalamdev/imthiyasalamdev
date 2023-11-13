@@ -1,9 +1,9 @@
 
-1. 👨‍💻 **Dev Explorer**: I'm Alam, navigating the realms of Full Stack and Android development to breathe life into digital concepts.
+ 👨‍💻 **Dev Explorer**: I'm Alam, navigating the realms of Full Stack and <br/>  &nbsp; &nbsp;  &nbsp; Android development to breathe life into digital concepts.
 
-2. 🌐 **Code Craftsman**: Crafting robust applications with a focus on clean code—from elegant front-end designs to scalable back-end solutions.
+ 🌐 **Code Craftsman**: Crafting robust applications with a focus on clean <br/>  &nbsp; &nbsp;  &nbsp;  code—from elegant front-end designs to scalable back-end solutions.
 
-3. 🚀 **Collaboration Catalyst**: Mobile app enthusiast, open source contributor, and always ready for coding collaborations. Let's connect and innovate together!
+ 🚀 **Collaboration Catalyst**: Mobile app enthusiast, open source contributor,<br/>  &nbsp; &nbsp;  &nbsp;  and always ready for coding collaborations. Let's connect and innovate together!
 
 [![](https://visitcount.itsvg.in/api?id=imthiyasalamdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
