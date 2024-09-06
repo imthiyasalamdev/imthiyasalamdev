@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100%" />
+<img src="https://images.playground.com/7b317d25adda4f57a594d584f1f70d21.jpeg" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Imthiyas Alam</h1>
 <h3 align="center">Android Developer</h3>
