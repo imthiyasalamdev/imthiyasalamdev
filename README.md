@@ -1,9 +1,10 @@
 <div align="center">
 <img src="https://images.playground.com/7b317d25adda4f57a594d584f1f70d21.jpeg" align="center" style="width: 100%" />
 </div>  
-<h2 align="center">Hi 👋, I'm Imthiyas Alam</h2>
 <h1 align="center">Android Application Developer</h1>
 
+
+<h2 align="center">Hi 👋, I'm Imthiyas Alam</h2>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/muhammedimthiyasalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedimthiyasalam" height="30" width="40" /></a>
