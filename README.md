@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://images.playground.com/7b317d25adda4f57a594d584f1f70d21.jpeg" align="center" style="width: 100%" />
 </div>  
-<h3 align="center">Hi 👋, I'm Imthiyas Alam</h3>
+<h2 align="center">Hi 👋, I'm Imthiyas Alam</h2>
 <h1 align="center">Android Application Developer</h1>
 
 <h3 align="center">Connect with me:</h3>
